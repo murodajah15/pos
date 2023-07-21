@@ -1,0 +1,31 @@
+[13-Feb-2018 09:42:20 UTC] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/hondaau1/public_html/cms/module/user/proses_edit.php on line 5
+[13-Feb-2018 09:42:27 UTC] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/hondaau1/public_html/cms/module/user/proses_edit.php on line 5
+[13-Feb-2018 09:42:32 UTC] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/hondaau1/public_html/cms/module/user/proses_edit.php on line 5
+[13-Feb-2018 09:48:04 UTC] PHP Warning:  include(../../../inc/config.php): failed to open stream: No such file or directory in /home/hondaau1/public_html/cms/module/user/proses_tambah.php on line 2
+[13-Feb-2018 09:48:04 UTC] PHP Warning:  include(): Failed opening '../../../inc/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/hondaau1/public_html/cms/module/user/proses_tambah.php on line 2
+[13-Feb-2018 09:48:04 UTC] PHP Notice:  Undefined variable: connect in /home/hondaau1/public_html/cms/module/user/proses_tambah.php on line 6
+[13-Feb-2018 09:48:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/hondaau1/public_html/cms/module/user/proses_tambah.php on line 6
+[13-Feb-2018 09:48:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/hondaau1/public_html/cms/module/user/proses_tambah.php on line 7
+[13-Feb-2018 09:48:04 UTC] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/hondaau1/public_html/cms/module/user/proses_tambah.php on line 12
+[13-Feb-2018 09:48:04 UTC] PHP Notice:  Undefined variable: connect in /home/hondaau1/public_html/cms/module/user/proses_tambah.php on line 13
+[13-Feb-2018 09:48:04 UTC] PHP Notice:  Undefined index: telp in /home/hondaau1/public_html/cms/module/user/proses_tambah.php on line 14
+[13-Feb-2018 09:48:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/hondaau1/public_html/cms/module/user/proses_tambah.php on line 14
+[13-Feb-2018 09:49:57 UTC] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/hondaau1/public_html/cms/module/user/proses_tambah.php on line 12
+[13-Feb-2018 09:49:57 UTC] PHP Notice:  Undefined index: telp in /home/hondaau1/public_html/cms/module/user/proses_tambah.php on line 14
+[13-Feb-2018 09:59:23 UTC] PHP Warning:  include(./inc/config.php): failed to open stream: No such file or directory in /home/hondaau1/public_html/cms/module/user/editpass.php on line 2
+[13-Feb-2018 09:59:23 UTC] PHP Warning:  include(): Failed opening './inc/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/hondaau1/public_html/cms/module/user/editpass.php on line 2
+[13-Feb-2018 09:59:23 UTC] PHP Notice:  Undefined variable: connect in /home/hondaau1/public_html/cms/module/user/editpass.php on line 12
+[13-Feb-2018 09:59:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/hondaau1/public_html/cms/module/user/editpass.php on line 12
+[13-Feb-2018 09:59:23 UTC] PHP Notice:  Trying to get property of non-object in /home/hondaau1/public_html/cms/module/user/editpass.php on line 14
+[13-Feb-2018 10:00:31 UTC] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/hondaau1/public_html/cms/module/user/proses_edit.php on line 5
+[14-Aug-2018 05:05:26 UTC] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/hondaau1/public_html/cms/module/user/proses_tambah.php on line 12
+[14-Aug-2018 05:05:26 UTC] PHP Notice:  Undefined index: telp in /home/hondaau1/public_html/cms/module/user/proses_tambah.php on line 14
+[14-Aug-2018 05:05:40 UTC] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/hondaau1/public_html/cms/module/user/proses_edit.php on line 5
+[14-Aug-2018 05:06:15 UTC] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/hondaau1/public_html/cms/module/user/proses_edit.php on line 5
+[14-Aug-2018 06:08:43 UTC] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/hondaau1/public_html/cms/module/user/proses_tambah.php on line 12
+[14-Aug-2018 06:08:43 UTC] PHP Notice:  Undefined index: telp in /home/hondaau1/public_html/cms/module/user/proses_tambah.php on line 14
+[14-Aug-2018 06:21:06 UTC] PHP Fatal error:  Call to undefined function redirect() in /home/hondaau1/public_html/cms/module/user/proses_tambah.php on line 11
+[14-Aug-2018 06:22:04 UTC] PHP Fatal error:  Call to undefined function redirect() in /home/hondaau1/public_html/cms/module/user/proses_tambah.php on line 11
+[14-Aug-2018 06:24:29 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/hondaau1/public_html/cms/module/user/proses_tambah.php on line 12
+[06-Oct-2018 03:32:13 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/hondaau1/public_html/cms/module/user/proses_edit.php on line 5
+[06-Oct-2018 03:32:21 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/hondaau1/public_html/cms/module/user/proses_edit.php on line 5

@@ -1,0 +1,333 @@
+[14-Jul-2023 22:24:49 Asia/Jakarta] PHP Notice:  Undefined variable: nmcustomer in /home/reabasti/public_html/pos/report/rjual_xls.php on line 17
+[14-Jul-2023 22:24:49 Asia/Jakarta] PHP Notice:  Undefined variable: nmsales in /home/reabasti/public_html/pos/report/rjual_xls.php on line 19
+[14-Jul-2023 22:26:20 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/reabasti/public_html/pos/dompdf/include/style.cls.php on line 784
+[14-Jul-2023 22:26:20 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:26:20 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:26:20 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:26:20 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:26:20 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/dompdf/include/page_frame_decorator.cls.php on line 439
+[14-Jul-2023 22:26:20 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:26:20 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:26:20 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/dompdf/include/page_frame_decorator.cls.php on line 439
+[14-Jul-2023 22:26:20 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/dompdf/include/page_frame_decorator.cls.php on line 439
+[14-Jul-2023 22:26:20 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:26:21 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:26:21 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:26:21 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:26:21 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/dompdf/include/block_frame_reflower.cls.php on line 699
+[14-Jul-2023 22:26:21 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/dompdf/include/style.cls.php on line 472
+[14-Jul-2023 22:26:21 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/dompdf/include/style.cls.php on line 472
+[14-Jul-2023 22:26:21 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/dompdf/include/page_frame_decorator.cls.php on line 439
+[14-Jul-2023 22:26:21 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:26:21 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:26:21 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:26:21 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:26:21 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:26:21 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:26:21 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:26:21 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:26:21 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:26:21 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:26:21 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:26:21 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:26:21 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:26:21 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:26:21 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:26:21 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:26:21 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:26:21 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:26:21 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:26:21 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:26:21 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:26:21 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:26:21 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:26:21 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:26:21 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:26:21 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:26:21 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:26:21 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/dompdf/include/page_frame_decorator.cls.php on line 439
+[14-Jul-2023 22:26:21 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/dompdf/include/inline_renderer.cls.php on line 110
+[14-Jul-2023 22:26:21 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/dompdf/include/inline_renderer.cls.php on line 110
+[14-Jul-2023 22:26:21 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/dompdf/include/inline_renderer.cls.php on line 48
+[14-Jul-2023 22:26:21 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/dompdf/include/inline_renderer.cls.php on line 110
+[14-Jul-2023 22:26:21 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/dompdf/include/inline_renderer.cls.php on line 110
+[14-Jul-2023 22:26:21 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/dompdf/include/style.cls.php on line 472
+[14-Jul-2023 22:26:21 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/dompdf/include/style.cls.php on line 472
+[14-Jul-2023 22:26:21 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/dompdf/include/inline_renderer.cls.php on line 132
+[14-Jul-2023 22:26:21 Asia/Jakarta] PHP Notice:  Undefined variable: nama in /home/reabasti/public_html/pos/report/rstock_pdf.php on line 387
+[14-Jul-2023 22:26:40 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/reabasti/public_html/pos/dompdf/include/style.cls.php on line 592
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/reabasti/public_html/pos/dompdf/include/style.cls.php on line 784
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/dompdf/include/page_frame_decorator.cls.php on line 439
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/dompdf/include/page_frame_decorator.cls.php on line 439
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/dompdf/include/page_frame_decorator.cls.php on line 439
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/dompdf/include/block_frame_reflower.cls.php on line 699
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/dompdf/include/style.cls.php on line 472
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/dompdf/include/style.cls.php on line 472
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/dompdf/include/page_frame_decorator.cls.php on line 439
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/dompdf/include/page_frame_decorator.cls.php on line 439
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/dompdf/include/inline_renderer.cls.php on line 110
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/dompdf/include/inline_renderer.cls.php on line 110
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/dompdf/include/inline_renderer.cls.php on line 48
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/dompdf/include/inline_renderer.cls.php on line 110
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/dompdf/include/inline_renderer.cls.php on line 110
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/dompdf/include/style.cls.php on line 472
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/dompdf/include/style.cls.php on line 472
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/dompdf/include/inline_renderer.cls.php on line 132
+[14-Jul-2023 22:36:46 Asia/Jakarta] PHP Notice:  Undefined variable: nama in /home/reabasti/public_html/pos/report/rstock_pdf.php on line 387
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/reabasti/public_html/pos/dompdf/include/style.cls.php on line 784
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/dompdf/include/page_frame_decorator.cls.php on line 439
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/dompdf/include/page_frame_decorator.cls.php on line 439
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/dompdf/include/page_frame_decorator.cls.php on line 439
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/dompdf/include/block_frame_reflower.cls.php on line 699
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/dompdf/include/style.cls.php on line 472
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/dompdf/include/style.cls.php on line 472
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/dompdf/include/page_frame_decorator.cls.php on line 439
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Deprecated:  Function create_function() is deprecated in /home/reabasti/public_html/pos/dompdf/include/text_frame_reflower.cls.php on line 374
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/dompdf/include/page_frame_decorator.cls.php on line 439
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/dompdf/include/inline_renderer.cls.php on line 110
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/dompdf/include/inline_renderer.cls.php on line 110
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/dompdf/include/inline_renderer.cls.php on line 48
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/dompdf/include/inline_renderer.cls.php on line 110
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/dompdf/include/inline_renderer.cls.php on line 110
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/dompdf/include/style.cls.php on line 472
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/dompdf/include/style.cls.php on line 472
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/dompdf/include/inline_renderer.cls.php on line 132
+[14-Jul-2023 22:49:09 Asia/Jakarta] PHP Notice:  Undefined variable: nama in /home/reabasti/public_html/pos/report/rstock_pdf.php on line 387
+[17-Jul-2023 15:11:30 Asia/Jakarta] PHP Notice:  Undefined variable: nmcustomer in /home/reabasti/public_html/pos/report/rjual_xls.php on line 17
+[17-Jul-2023 15:11:30 Asia/Jakarta] PHP Notice:  Undefined variable: nmsales in /home/reabasti/public_html/pos/report/rjual_xls.php on line 19
+[17-Jul-2023 15:12:22 Asia/Jakarta] PHP Notice:  Undefined variable: nmcustomer in /home/reabasti/public_html/pos/report/rjual_xls.php on line 17
+[17-Jul-2023 15:12:22 Asia/Jakarta] PHP Notice:  Undefined variable: nmsales in /home/reabasti/public_html/pos/report/rjual_xls.php on line 19
+[17-Jul-2023 15:12:35 Asia/Jakarta] PHP Notice:  Undefined variable: nmcustomer in /home/reabasti/public_html/pos/report/rjual_xls.php on line 17
+[17-Jul-2023 15:12:35 Asia/Jakarta] PHP Notice:  Undefined variable: nmsales in /home/reabasti/public_html/pos/report/rjual_xls.php on line 19
+[17-Jul-2023 15:12:44 Asia/Jakarta] PHP Notice:  Undefined variable: nmcustomer in /home/reabasti/public_html/pos/report/rjual_xls.php on line 17
+[17-Jul-2023 15:12:44 Asia/Jakarta] PHP Notice:  Undefined variable: nmsales in /home/reabasti/public_html/pos/report/rjual_xls.php on line 19
+[17-Jul-2023 15:14:04 Asia/Jakarta] PHP Notice:  Undefined variable: nmcustomer in /home/reabasti/public_html/pos/report/rjual_xls.php on line 17
+[17-Jul-2023 15:14:04 Asia/Jakarta] PHP Notice:  Undefined variable: nmsales in /home/reabasti/public_html/pos/report/rjual_xls.php on line 19
+[17-Jul-2023 15:14:15 Asia/Jakarta] PHP Notice:  Undefined variable: nmcustomer in /home/reabasti/public_html/pos/report/rjual_xls.php on line 17
+[17-Jul-2023 15:14:15 Asia/Jakarta] PHP Notice:  Undefined variable: nmsales in /home/reabasti/public_html/pos/report/rjual_xls.php on line 19
+[18-Jul-2023 05:43:24 Asia/Jakarta] PHP Notice:  Undefined variable: nmcustomer in /home/reabasti/public_html/pos/report/rjual_xls.php on line 17
+[18-Jul-2023 05:43:24 Asia/Jakarta] PHP Notice:  Undefined variable: nmsales in /home/reabasti/public_html/pos/report/rjual_xls.php on line 19
+[18-Jul-2023 05:51:49 Asia/Jakarta] PHP Notice:  Undefined variable: nmcustomer in /home/reabasti/public_html/pos/report/rjual_xls.php on line 17
+[18-Jul-2023 05:51:49 Asia/Jakarta] PHP Notice:  Undefined variable: nmsales in /home/reabasti/public_html/pos/report/rjual_xls.php on line 19
+[18-Jul-2023 05:51:49 Asia/Jakarta] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/reabasti/public_html/pos/report/rjual_data.php on line 212
+[18-Jul-2023 05:51:57 Asia/Jakarta] PHP Notice:  Undefined variable: nmcustomer in /home/reabasti/public_html/pos/report/rjual_xls.php on line 17
+[18-Jul-2023 05:51:57 Asia/Jakarta] PHP Notice:  Undefined variable: nmsales in /home/reabasti/public_html/pos/report/rjual_xls.php on line 19
+[18-Jul-2023 05:51:57 Asia/Jakarta] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/reabasti/public_html/pos/report/rjual_data.php on line 212
+[18-Jul-2023 05:52:10 Asia/Jakarta] PHP Notice:  Undefined variable: nmcustomer in /home/reabasti/public_html/pos/report/rjual_xls.php on line 17
+[18-Jul-2023 05:52:10 Asia/Jakarta] PHP Notice:  Undefined variable: nmsales in /home/reabasti/public_html/pos/report/rjual_xls.php on line 19
+[18-Jul-2023 05:52:10 Asia/Jakarta] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/reabasti/public_html/pos/report/rjual_data.php on line 212
+[18-Jul-2023 05:54:47 Asia/Jakarta] PHP Notice:  Undefined variable: nmcustomer in /home/reabasti/public_html/pos/report/rjual_xls.php on line 17
+[18-Jul-2023 05:54:47 Asia/Jakarta] PHP Notice:  Undefined variable: nmsales in /home/reabasti/public_html/pos/report/rjual_xls.php on line 19
+[18-Jul-2023 05:54:47 Asia/Jakarta] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/reabasti/public_html/pos/report/rjual_data.php on line 212
+[18-Jul-2023 05:54:56 Asia/Jakarta] PHP Notice:  Undefined variable: nmcustomer in /home/reabasti/public_html/pos/report/rjual_xls.php on line 17
+[18-Jul-2023 05:54:56 Asia/Jakarta] PHP Notice:  Undefined variable: nmsales in /home/reabasti/public_html/pos/report/rjual_xls.php on line 19
+[18-Jul-2023 05:54:56 Asia/Jakarta] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/reabasti/public_html/pos/report/rjual_data.php on line 212
+[18-Jul-2023 05:55:05 Asia/Jakarta] PHP Notice:  Undefined variable: nmcustomer in /home/reabasti/public_html/pos/report/rjual_xls.php on line 17
+[18-Jul-2023 05:55:05 Asia/Jakarta] PHP Notice:  Undefined variable: nmsales in /home/reabasti/public_html/pos/report/rjual_xls.php on line 19
+[18-Jul-2023 05:55:05 Asia/Jakarta] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/reabasti/public_html/pos/report/rjual_data.php on line 212
+[18-Jul-2023 05:56:40 Asia/Jakarta] PHP Notice:  Undefined variable: nmcustomer in /home/reabasti/public_html/pos/report/rjual_xls.php on line 17
+[18-Jul-2023 05:56:40 Asia/Jakarta] PHP Notice:  Undefined variable: nmsales in /home/reabasti/public_html/pos/report/rjual_xls.php on line 19
+[18-Jul-2023 05:56:46 Asia/Jakarta] PHP Notice:  Undefined variable: nmcustomer in /home/reabasti/public_html/pos/report/rjual_xls.php on line 17
+[18-Jul-2023 05:56:46 Asia/Jakarta] PHP Notice:  Undefined variable: nmsales in /home/reabasti/public_html/pos/report/rjual_xls.php on line 19
+[18-Jul-2023 06:06:10 Asia/Jakarta] PHP Notice:  Undefined variable: nmcustomer in /home/reabasti/public_html/pos/report/rjual_xls.php on line 17
+[18-Jul-2023 06:06:10 Asia/Jakarta] PHP Notice:  Undefined variable: nmsales in /home/reabasti/public_html/pos/report/rjual_xls.php on line 19
+[18-Jul-2023 06:07:11 Asia/Jakarta] PHP Notice:  Undefined variable: nmcustomer in /home/reabasti/public_html/pos/report/rjual_xls.php on line 17
+[18-Jul-2023 06:07:11 Asia/Jakarta] PHP Notice:  Undefined variable: nmsales in /home/reabasti/public_html/pos/report/rjual_xls.php on line 19
+[18-Jul-2023 06:10:01 Asia/Jakarta] PHP Notice:  Undefined variable: nmcustomer in /home/reabasti/public_html/pos/report/rjual_xls.php on line 17
+[18-Jul-2023 06:10:01 Asia/Jakarta] PHP Notice:  Undefined variable: nmsales in /home/reabasti/public_html/pos/report/rjual_xls.php on line 19
+[18-Jul-2023 06:10:34 Asia/Jakarta] PHP Notice:  Undefined variable: nmcustomer in /home/reabasti/public_html/pos/report/rjual_xls.php on line 17
+[18-Jul-2023 06:10:34 Asia/Jakarta] PHP Notice:  Undefined variable: nmsales in /home/reabasti/public_html/pos/report/rjual_xls.php on line 19
+[18-Jul-2023 06:12:23 Asia/Jakarta] PHP Notice:  Undefined variable: nmcustomer in /home/reabasti/public_html/pos/report/rjual_xls.php on line 17
+[18-Jul-2023 06:12:23 Asia/Jakarta] PHP Notice:  Undefined variable: nmsales in /home/reabasti/public_html/pos/report/rjual_xls.php on line 19
+[18-Jul-2023 06:14:06 Asia/Jakarta] PHP Notice:  Undefined variable: nmcustomer in /home/reabasti/public_html/pos/report/rjual_xls.php on line 17
+[18-Jul-2023 06:14:06 Asia/Jakarta] PHP Notice:  Undefined variable: nmsales in /home/reabasti/public_html/pos/report/rjual_xls.php on line 19
+[18-Jul-2023 06:14:50 Asia/Jakarta] PHP Notice:  Undefined variable: nmcustomer in /home/reabasti/public_html/pos/report/rjual_xls.php on line 17
+[18-Jul-2023 06:14:50 Asia/Jakarta] PHP Notice:  Undefined variable: nmsales in /home/reabasti/public_html/pos/report/rjual_xls.php on line 19
+[18-Jul-2023 06:15:52 Asia/Jakarta] PHP Notice:  Undefined variable: nmcustomer in /home/reabasti/public_html/pos/report/rjual_xls.php on line 17
+[18-Jul-2023 06:15:52 Asia/Jakarta] PHP Notice:  Undefined variable: nmsales in /home/reabasti/public_html/pos/report/rjual_xls.php on line 19
+[18-Jul-2023 06:16:24 Asia/Jakarta] PHP Notice:  Undefined variable: nmcustomer in /home/reabasti/public_html/pos/report/rjual_xls.php on line 17
+[18-Jul-2023 06:16:24 Asia/Jakarta] PHP Notice:  Undefined variable: nmsales in /home/reabasti/public_html/pos/report/rjual_xls.php on line 19
+[18-Jul-2023 06:17:39 Asia/Jakarta] PHP Notice:  Undefined variable: nmcustomer in /home/reabasti/public_html/pos/report/rjual_xls.php on line 17
+[18-Jul-2023 06:17:39 Asia/Jakarta] PHP Notice:  Undefined variable: nmsales in /home/reabasti/public_html/pos/report/rjual_xls.php on line 19
+[18-Jul-2023 06:17:53 Asia/Jakarta] PHP Notice:  Undefined variable: nmcustomer in /home/reabasti/public_html/pos/report/rjual_xls.php on line 17
+[18-Jul-2023 06:17:53 Asia/Jakarta] PHP Notice:  Undefined variable: nmsales in /home/reabasti/public_html/pos/report/rjual_xls.php on line 19
+[18-Jul-2023 06:18:12 Asia/Jakarta] PHP Notice:  Undefined variable: nmcustomer in /home/reabasti/public_html/pos/report/rjual_xls.php on line 17
+[18-Jul-2023 06:18:12 Asia/Jakarta] PHP Notice:  Undefined variable: nmsales in /home/reabasti/public_html/pos/report/rjual_xls.php on line 19
+[18-Jul-2023 06:23:58 Asia/Jakarta] PHP Notice:  Undefined variable: nmcustomer in /home/reabasti/public_html/pos/report/rjual_xls.php on line 17
+[18-Jul-2023 06:23:58 Asia/Jakarta] PHP Notice:  Undefined variable: nmsales in /home/reabasti/public_html/pos/report/rjual_xls.php on line 19
+[18-Jul-2023 06:23:58 Asia/Jakarta] PHP Notice:  Undefined variable: rp_ppnf in /home/reabasti/public_html/pos/report/rjual_data.php on line 316
+[18-Jul-2023 06:23:58 Asia/Jakarta] PHP Notice:  Undefined variable: total_f in /home/reabasti/public_html/pos/report/rjual_data.php on line 317
+[18-Jul-2023 06:23:58 Asia/Jakarta] PHP Notice:  Undefined variable: rp_ppnf in /home/reabasti/public_html/pos/report/rjual_data.php on line 316
+[18-Jul-2023 06:23:58 Asia/Jakarta] PHP Notice:  Undefined variable: total_f in /home/reabasti/public_html/pos/report/rjual_data.php on line 317
+[18-Jul-2023 06:25:13 Asia/Jakarta] PHP Notice:  Undefined variable: nmcustomer in /home/reabasti/public_html/pos/report/rjual_xls.php on line 17
+[18-Jul-2023 06:25:13 Asia/Jakarta] PHP Notice:  Undefined variable: nmsales in /home/reabasti/public_html/pos/report/rjual_xls.php on line 19
+[18-Jul-2023 06:25:13 Asia/Jakarta] PHP Notice:  Undefined variable: rp_ppnf in /home/reabasti/public_html/pos/report/rjual_data.php on line 316
+[18-Jul-2023 06:25:13 Asia/Jakarta] PHP Notice:  Undefined variable: total_f in /home/reabasti/public_html/pos/report/rjual_data.php on line 317
+[18-Jul-2023 06:25:13 Asia/Jakarta] PHP Notice:  Undefined variable: rp_ppnf in /home/reabasti/public_html/pos/report/rjual_data.php on line 316
+[18-Jul-2023 06:25:13 Asia/Jakarta] PHP Notice:  Undefined variable: total_f in /home/reabasti/public_html/pos/report/rjual_data.php on line 317
+[18-Jul-2023 06:26:26 Asia/Jakarta] PHP Notice:  Undefined variable: nmcustomer in /home/reabasti/public_html/pos/report/rjual_xls.php on line 17
+[18-Jul-2023 06:26:26 Asia/Jakarta] PHP Notice:  Undefined variable: nmsales in /home/reabasti/public_html/pos/report/rjual_xls.php on line 19
+[18-Jul-2023 06:26:26 Asia/Jakarta] PHP Notice:  Undefined variable: rp_ppnf in /home/reabasti/public_html/pos/report/rjual_data.php on line 316
+[18-Jul-2023 06:26:26 Asia/Jakarta] PHP Notice:  Undefined variable: total_f in /home/reabasti/public_html/pos/report/rjual_data.php on line 317
+[18-Jul-2023 06:26:26 Asia/Jakarta] PHP Notice:  Undefined variable: rp_ppnf in /home/reabasti/public_html/pos/report/rjual_data.php on line 316
+[18-Jul-2023 06:26:26 Asia/Jakarta] PHP Notice:  Undefined variable: total_f in /home/reabasti/public_html/pos/report/rjual_data.php on line 317
+[18-Jul-2023 06:26:51 Asia/Jakarta] PHP Notice:  Undefined variable: nmcustomer in /home/reabasti/public_html/pos/report/rjual_xls.php on line 17
+[18-Jul-2023 06:26:51 Asia/Jakarta] PHP Notice:  Undefined variable: nmsales in /home/reabasti/public_html/pos/report/rjual_xls.php on line 19
+[18-Jul-2023 06:26:51 Asia/Jakarta] PHP Notice:  Undefined variable: rp_ppnf in /home/reabasti/public_html/pos/report/rjual_data.php on line 316
+[18-Jul-2023 06:26:51 Asia/Jakarta] PHP Notice:  Undefined variable: total_f in /home/reabasti/public_html/pos/report/rjual_data.php on line 317
+[18-Jul-2023 06:26:51 Asia/Jakarta] PHP Notice:  Undefined variable: rp_ppnf in /home/reabasti/public_html/pos/report/rjual_data.php on line 316
+[18-Jul-2023 06:26:51 Asia/Jakarta] PHP Notice:  Undefined variable: total_f in /home/reabasti/public_html/pos/report/rjual_data.php on line 317
+[18-Jul-2023 06:27:23 Asia/Jakarta] PHP Notice:  Undefined variable: nmcustomer in /home/reabasti/public_html/pos/report/rjual_xls.php on line 17
+[18-Jul-2023 06:27:23 Asia/Jakarta] PHP Notice:  Undefined variable: nmsales in /home/reabasti/public_html/pos/report/rjual_xls.php on line 19
+[18-Jul-2023 06:27:23 Asia/Jakarta] PHP Notice:  Undefined variable: rp_ppnf in /home/reabasti/public_html/pos/report/rjual_data.php on line 317
+[18-Jul-2023 06:27:23 Asia/Jakarta] PHP Notice:  Undefined variable: total_f in /home/reabasti/public_html/pos/report/rjual_data.php on line 318
+[18-Jul-2023 06:27:23 Asia/Jakarta] PHP Notice:  Undefined variable: rp_ppnf in /home/reabasti/public_html/pos/report/rjual_data.php on line 317
+[18-Jul-2023 06:27:23 Asia/Jakarta] PHP Notice:  Undefined variable: total_f in /home/reabasti/public_html/pos/report/rjual_data.php on line 318
+[18-Jul-2023 06:27:45 Asia/Jakarta] PHP Notice:  Undefined variable: nmcustomer in /home/reabasti/public_html/pos/report/rjual_xls.php on line 17
+[18-Jul-2023 06:27:45 Asia/Jakarta] PHP Notice:  Undefined variable: nmsales in /home/reabasti/public_html/pos/report/rjual_xls.php on line 19
+[18-Jul-2023 06:27:45 Asia/Jakarta] PHP Notice:  Undefined variable: rp_ppnf in /home/reabasti/public_html/pos/report/rjual_data.php on line 317
+[18-Jul-2023 06:27:45 Asia/Jakarta] PHP Notice:  Undefined variable: total_f in /home/reabasti/public_html/pos/report/rjual_data.php on line 318
+[18-Jul-2023 06:27:45 Asia/Jakarta] PHP Notice:  Undefined variable: rp_ppnf in /home/reabasti/public_html/pos/report/rjual_data.php on line 317
+[18-Jul-2023 06:27:45 Asia/Jakarta] PHP Notice:  Undefined variable: total_f in /home/reabasti/public_html/pos/report/rjual_data.php on line 318
+[18-Jul-2023 06:28:38 Asia/Jakarta] PHP Notice:  Undefined variable: nmcustomer in /home/reabasti/public_html/pos/report/rjual_xls.php on line 17
+[18-Jul-2023 06:28:38 Asia/Jakarta] PHP Notice:  Undefined variable: nmsales in /home/reabasti/public_html/pos/report/rjual_xls.php on line 19
+[18-Jul-2023 06:29:12 Asia/Jakarta] PHP Notice:  Undefined variable: nmcustomer in /home/reabasti/public_html/pos/report/rjual_xls.php on line 17
+[18-Jul-2023 06:29:12 Asia/Jakarta] PHP Notice:  Undefined variable: nmsales in /home/reabasti/public_html/pos/report/rjual_xls.php on line 19
+[18-Jul-2023 06:31:23 Asia/Jakarta] PHP Notice:  Undefined variable: nmcustomer in /home/reabasti/public_html/pos/report/rjual_xls.php on line 17
+[18-Jul-2023 06:31:23 Asia/Jakarta] PHP Notice:  Undefined variable: nmsales in /home/reabasti/public_html/pos/report/rjual_xls.php on line 19
+[18-Jul-2023 09:14:11 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/reabasti/public_html/pos/report/rkasir_tagihan_data.php on line 82
+[18-Jul-2023 09:15:04 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/reabasti/public_html/pos/report/rkasir_tagihan_data.php on line 83
+[18-Jul-2023 09:15:30 Asia/Jakarta] PHP Notice:  Undefined variable: nokwitansi in /home/reabasti/public_html/pos/report/rkasir_tagihan_data.php on line 89
+[18-Jul-2023 09:16:09 Asia/Jakarta] PHP Notice:  Undefined variable: nokwitansi in /home/reabasti/public_html/pos/report/rkasir_tagihan_data.php on line 88
+[18-Jul-2023 09:16:29 Asia/Jakarta] PHP Notice:  Undefined variable: nokwitansi in /home/reabasti/public_html/pos/report/rkasir_tagihan_data.php on line 88
+[18-Jul-2023 09:17:14 Asia/Jakarta] PHP Notice:  Undefined index: nokwitansi in /home/reabasti/public_html/pos/report/rkasir_tagihan_data.php on line 92
+[18-Jul-2023 09:17:14 Asia/Jakarta] PHP Notice:  Undefined index: tglkwitansi in /home/reabasti/public_html/pos/report/rkasir_tagihan_data.php on line 93
+[18-Jul-2023 09:17:14 Asia/Jakarta] PHP Notice:  Undefined index: nodokumen in /home/reabasti/public_html/pos/report/rkasir_tagihan_data.php on line 94
+[18-Jul-2023 09:17:14 Asia/Jakarta] PHP Notice:  Undefined variable: carabayar in /home/reabasti/public_html/pos/report/rkasir_tagihan_data.php on line 95
+[18-Jul-2023 09:17:14 Asia/Jakarta] PHP Notice:  Undefined index: uang in /home/reabasti/public_html/pos/report/rkasir_tagihan_data.php on line 96
+[18-Jul-2023 09:17:55 Asia/Jakarta] PHP Notice:  Undefined index: nokwitansi in /home/reabasti/public_html/pos/report/rkasir_tagihan_data.php on line 92
+[18-Jul-2023 09:17:55 Asia/Jakarta] PHP Notice:  Undefined index: tglkwitansi in /home/reabasti/public_html/pos/report/rkasir_tagihan_data.php on line 93
+[18-Jul-2023 09:17:55 Asia/Jakarta] PHP Notice:  Undefined index: nodokumen in /home/reabasti/public_html/pos/report/rkasir_tagihan_data.php on line 94
+[18-Jul-2023 09:17:55 Asia/Jakarta] PHP Notice:  Undefined variable: carabayar in /home/reabasti/public_html/pos/report/rkasir_tagihan_data.php on line 95
+[18-Jul-2023 09:17:55 Asia/Jakarta] PHP Notice:  Undefined index: uang in /home/reabasti/public_html/pos/report/rkasir_tagihan_data.php on line 96
+[18-Jul-2023 09:18:01 Asia/Jakarta] PHP Notice:  Undefined index: nokwitansi in /home/reabasti/public_html/pos/report/rkasir_tagihan_data.php on line 92
+[18-Jul-2023 09:18:01 Asia/Jakarta] PHP Notice:  Undefined index: tglkwitansi in /home/reabasti/public_html/pos/report/rkasir_tagihan_data.php on line 93
+[18-Jul-2023 09:18:01 Asia/Jakarta] PHP Notice:  Undefined index: nodokumen in /home/reabasti/public_html/pos/report/rkasir_tagihan_data.php on line 94
+[18-Jul-2023 09:18:01 Asia/Jakarta] PHP Notice:  Undefined variable: carabayar in /home/reabasti/public_html/pos/report/rkasir_tagihan_data.php on line 95
+[18-Jul-2023 09:18:01 Asia/Jakarta] PHP Notice:  Undefined index: uang in /home/reabasti/public_html/pos/report/rkasir_tagihan_data.php on line 96
+[18-Jul-2023 09:19:28 Asia/Jakarta] PHP Notice:  Undefined index: nokwitansi in /home/reabasti/public_html/pos/report/rkasir_tagihan_data.php on line 92
+[18-Jul-2023 09:19:28 Asia/Jakarta] PHP Notice:  Undefined index: tglkwitansi in /home/reabasti/public_html/pos/report/rkasir_tagihan_data.php on line 93
+[18-Jul-2023 09:19:28 Asia/Jakarta] PHP Notice:  Undefined index: nodokumen in /home/reabasti/public_html/pos/report/rkasir_tagihan_data.php on line 94
+[18-Jul-2023 09:19:28 Asia/Jakarta] PHP Notice:  Undefined variable: carabayar in /home/reabasti/public_html/pos/report/rkasir_tagihan_data.php on line 95
+[18-Jul-2023 09:19:28 Asia/Jakarta] PHP Notice:  Undefined index: uang in /home/reabasti/public_html/pos/report/rkasir_tagihan_data.php on line 96
+[18-Jul-2023 09:20:25 Asia/Jakarta] PHP Notice:  Undefined index: nokwitansi in /home/reabasti/public_html/pos/report/rkasir_tagihan_data.php on line 92
+[18-Jul-2023 09:20:25 Asia/Jakarta] PHP Notice:  Undefined index: tglkwitansi in /home/reabasti/public_html/pos/report/rkasir_tagihan_data.php on line 93
+[18-Jul-2023 09:20:25 Asia/Jakarta] PHP Notice:  Undefined index: nodokumen in /home/reabasti/public_html/pos/report/rkasir_tagihan_data.php on line 94
+[18-Jul-2023 09:20:25 Asia/Jakarta] PHP Notice:  Undefined variable: carabayar in /home/reabasti/public_html/pos/report/rkasir_tagihan_data.php on line 95
+[18-Jul-2023 09:20:25 Asia/Jakarta] PHP Notice:  Undefined index: uang in /home/reabasti/public_html/pos/report/rkasir_tagihan_data.php on line 96
+[18-Jul-2023 09:21:37 Asia/Jakarta] PHP Notice:  Undefined index: nodokumen in /home/reabasti/public_html/pos/report/rkasir_tagihan_data.php on line 95
+[18-Jul-2023 09:21:37 Asia/Jakarta] PHP Notice:  Undefined index: uang in /home/reabasti/public_html/pos/report/rkasir_tagihan_data.php on line 97
+[18-Jul-2023 09:26:42 Asia/Jakarta] PHP Notice:  Undefined variable: bayar in /home/reabasti/public_html/pos/report/rkasir_tagihan_data.php on line 97
+[18-Jul-2023 09:29:03 Asia/Jakarta] PHP Notice:  Undefined index: user_input in /home/reabasti/public_html/pos/report/rkasir_tagihan_data.php on line 99
+[18-Jul-2023 09:37:35 Asia/Jakarta] PHP Notice:  Undefined variable: nmcustomer in /home/reabasti/public_html/pos/report/rjual_xls.php on line 17
+[18-Jul-2023 09:37:35 Asia/Jakarta] PHP Notice:  Undefined variable: nmsales in /home/reabasti/public_html/pos/report/rjual_xls.php on line 19
+[18-Jul-2023 17:21:00 Asia/Jakarta] PHP Notice:  Undefined index: tanggal1 in /home/reabasti/public_html/pos/report/rjual_xls.php on line 4
+[18-Jul-2023 17:21:00 Asia/Jakarta] PHP Notice:  Undefined index: tanggal2 in /home/reabasti/public_html/pos/report/rjual_xls.php on line 5
+[18-Jul-2023 17:21:00 Asia/Jakarta] PHP Notice:  Undefined index: tanggal1 in /home/reabasti/public_html/pos/report/rjual_xls.php on line 6
+[18-Jul-2023 17:21:00 Asia/Jakarta] PHP Notice:  Undefined index: tanggal2 in /home/reabasti/public_html/pos/report/rjual_xls.php on line 7
+[18-Jul-2023 17:21:00 Asia/Jakarta] PHP Notice:  Undefined index: kdcustomer in /home/reabasti/public_html/pos/report/rjual_xls.php on line 8
+[18-Jul-2023 17:21:00 Asia/Jakarta] PHP Notice:  Undefined index: kdsales in /home/reabasti/public_html/pos/report/rjual_xls.php on line 9
+[18-Jul-2023 17:21:00 Asia/Jakarta] PHP Notice:  Undefined variable: nmcustomer in /home/reabasti/public_html/pos/report/rjual_xls.php on line 17
+[18-Jul-2023 17:21:00 Asia/Jakarta] PHP Notice:  Undefined variable: nmsales in /home/reabasti/public_html/pos/report/rjual_xls.php on line 19
+[18-Jul-2023 17:21:00 Asia/Jakarta] PHP Notice:  Undefined index: pilihanppn in /home/reabasti/public_html/pos/report/rjual_xls.php on line 22
+[18-Jul-2023 17:21:00 Asia/Jakarta] PHP Notice:  Undefined index: tanggal1 in /home/reabasti/public_html/pos/report/rjual_data.php on line 5
+[18-Jul-2023 17:21:00 Asia/Jakarta] PHP Notice:  Undefined index: tanggal2 in /home/reabasti/public_html/pos/report/rjual_data.php on line 6
+[18-Jul-2023 17:21:00 Asia/Jakarta] PHP Notice:  Undefined index: tanggal1 in /home/reabasti/public_html/pos/report/rjual_data.php on line 7
+[18-Jul-2023 17:21:00 Asia/Jakarta] PHP Notice:  Undefined index: tanggal2 in /home/reabasti/public_html/pos/report/rjual_data.php on line 8
+[18-Jul-2023 17:21:00 Asia/Jakarta] PHP Notice:  Undefined index: nm_perusahaan in /home/reabasti/public_html/pos/report/rjual_data.php on line 9
+[18-Jul-2023 17:21:00 Asia/Jakarta] PHP Notice:  Undefined index: alamat_perusahaan in /home/reabasti/public_html/pos/report/rjual_data.php on line 10
+[18-Jul-2023 17:21:00 Asia/Jakarta] PHP Notice:  Undefined index: telp_perusahaan in /home/reabasti/public_html/pos/report/rjual_data.php on line 11
+[18-Jul-2023 17:21:00 Asia/Jakarta] PHP Notice:  Undefined index: kdcustomer in /home/reabasti/public_html/pos/report/rjual_data.php on line 12
+[18-Jul-2023 17:21:00 Asia/Jakarta] PHP Notice:  Undefined index: kdsales in /home/reabasti/public_html/pos/report/rjual_data.php on line 13
+[18-Jul-2023 17:21:00 Asia/Jakarta] PHP Notice:  Undefined index: pilihanppn in /home/reabasti/public_html/pos/report/rjual_data.php on line 150
+[18-Jul-2023 17:21:00 Asia/Jakarta] PHP Notice:  Undefined index: pilihanppn in /home/reabasti/public_html/pos/report/rjual_data.php on line 153
+[18-Jul-2023 17:21:00 Asia/Jakarta] PHP Notice:  Undefined index: pilihanppn in /home/reabasti/public_html/pos/report/rjual_data.php on line 156
+[18-Jul-2023 17:21:00 Asia/Jakarta] PHP Notice:  Undefined variable: qry in /home/reabasti/public_html/pos/report/rjual_data.php on line 159
+[18-Jul-2023 17:21:00 Asia/Jakarta] PHP Warning:  mysqli_query(): Empty query in /home/reabasti/public_html/pos/report/rjual_data.php on line 159
+[18-Jul-2023 17:21:00 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/reabasti/public_html/pos/report/rjual_data.php on line 166
+[18-Jul-2023 17:21:00 Asia/Jakarta] PHP Notice:  Undefined index: kdcustomer in /home/reabasti/public_html/pos/report/rjual_data.php on line 173
+[18-Jul-2023 17:21:00 Asia/Jakarta] PHP Notice:  Undefined index: kdsales in /home/reabasti/public_html/pos/report/rjual_data.php on line 178
+[18-Jul-2023 17:21:00 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/reabasti/public_html/pos/report/rjual_data.php on line 298

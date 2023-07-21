@@ -1,0 +1,109 @@
+			case 'promoh':
+				$sql=mysqli_query($connect,"select * from userdtl where cmodule='Manajemen Karir' and username='$username'");
+				$d1=mysqli_fetch_assoc($sql);
+				if (mysqli_num_rows($sql)>0 and $d1['pakai']=='1') {
+					$kelompok = $_SESSION['kelompok'];
+					if ($kelompok=='ADMIN_CRO' or $kelompok=='ADMINISTRATOR'){
+						$aksesok = 'Y';
+					//}else{
+					//	$aksesok = 'N';
+					//}			
+				}else{
+					$aksesok = 'N';
+				}										
+				break;		
+			case 'promo':
+				$sql=mysqli_query($connect,"select * from userdtl where cmodule='Manajemen Karir' and username='$username'");
+				$d1=mysqli_fetch_assoc($sql);
+				if (mysqli_num_rows($sql)>0 and $d1['pakai']=='1') {
+					$kelompok = $_SESSION['kelompok'];
+					if ($kelompok=='ADMIN_CRO' or $kelompok=='ADMINISTRATOR'){
+						$aksesok = 'Y';
+					//}else{
+					//	$aksesok = 'N';
+					//}			
+				}else{
+					$aksesok = 'N';
+				}										
+				break;
+			case 'news':
+				$sql=mysqli_query($connect,"select * from userdtl where cmodule='Manajemen Karir' and username='$username'");
+				$d1=mysqli_fetch_assoc($sql);
+				if (mysqli_num_rows($sql)>0 and $d1['pakai']=='1') {
+					$kelompok = $_SESSION['kelompok'];
+					if ($kelompok=='ADMIN_CRO' or $kelompok=='ADMINISTRATOR'){
+						$aksesok = 'Y';
+					//}else{
+					//	$aksesok = 'N';
+					//}			
+				}else{
+					$aksesok = 'N';
+				}										
+				break;
+			case 'usedcar':
+				$sql=mysqli_query($connect,"select * from userdtl where cmodule='Manajemen Karir' and username='$username'");
+				$d1=mysqli_fetch_assoc($sql);
+				if (mysqli_num_rows($sql)>0 and $d1['pakai']=='1') {
+					$kelompok = $_SESSION['kelompok'];
+					if ($kelompok=='ADMIN_BEKAS' or $kelompok=='ADMINISTRATOR'){
+						$aksesok = 'Y';
+					//}else{
+					//	$aksesok = 'N';
+					//}			
+				}else{
+					$aksesok = 'N';
+				}										
+				break;
+			case 'booking':
+				$sql=mysqli_query($connect,"select * from userdtl where cmodule='Manajemen Karir' and username='$username'");
+				$d1=mysqli_fetch_assoc($sql);
+				if (mysqli_num_rows($sql)>0 and $d1['pakai']=='1') {
+					$kelompok = $_SESSION['kelompok'];
+					if ($kelompok=='ADMIN_CRO' or $kelompok=='ADMINISTRATOR'){
+						$aksesok = 'Y';
+					}else{
+						$aksesok = 'N';
+					}
+				break;
+			case 'lamaran':
+				$sql=mysqli_query($connect,"select * from userdtl where cmodule='Manajemen Karir' and username='$username'");
+				$d1=mysqli_fetch_assoc($sql);
+					if (mysqli_num_rows($sql)>0 and $d1['pakai']=='1') {
+					$kelompok = $_SESSION['kelompok'];
+					if ($kelompok=='ADMIN_HRD' or $kelompok=='ADMINISTRATOR'){
+						$aksesok = 'Y';
+					//}else{
+					//	$aksesok = 'N';
+					//}			
+				}else{
+					$aksesok = 'N';
+				}										
+				break;			
+			case 'pricelist':
+				$sql=mysqli_query($connect,"select * from userdtl where cmodule='Manajemen Karir' and username='$username'");
+				$d1=mysqli_fetch_assoc($sql);
+				if (mysqli_num_rows($sql)>0 and $d1['pakai']=='1') {
+					$kelompok = $_SESSION['kelompok'];
+					if ($kelompok=='ADMIN_BARU' or $kelompok=='ADMINISTRATOR'){
+						$aksesok = 'Y';
+					//}else{
+					//	$aksesok = 'N';
+					//}			
+				}else{
+					$aksesok = 'N';
+				}										
+				break;			
+			case 'user':
+				$sql=mysqli_query($connect,"select * from userdtl where cmodule='Manajemen Karir' and username='$username'");
+				$d1=mysqli_fetch_assoc($sql);
+				if (mysqli_num_rows($sql)>0 and $d1['pakai']=='1') {
+					$kelompok = $_SESSION['kelompok'];
+					if ($kelompok=='ADMINISTRATOR'){
+						$aksesok = 'Y';
+					//}else{
+					//	$aksesok = 'N';
+					//}			
+				}else{
+					$aksesok = 'N';
+				}										
+				break;			

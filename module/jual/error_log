@@ -1,0 +1,32 @@
+[14-Jul-2023 16:12:45 Asia/Jakarta] PHP Notice:  Undefined variable: tempo in /home/reabasti/public_html/pos/module/jual/lihat_detail.php on line 20
+[14-Jul-2023 16:12:45 Asia/Jakarta] PHP Notice:  Undefined variable: tempo in /home/reabasti/public_html/pos/module/jual/lihat_detail.php on line 91
+[14-Jul-2023 16:12:45 Asia/Jakarta] PHP Notice:  Undefined variable: data in /home/reabasti/public_html/pos/module/jual/lihat_detail.php on line 169
+[14-Jul-2023 16:12:45 Asia/Jakarta] PHP Notice:  Undefined variable: tampil in /home/reabasti/public_html/pos/module/jual/lihat_detail.php on line 173
+[14-Jul-2023 16:12:45 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/reabasti/public_html/pos/module/jual/lihat_detail.php on line 173
+[14-Jul-2023 16:16:12 Asia/Jakarta] PHP Notice:  Undefined variable: tempo in /home/reabasti/public_html/pos/module/jual/lihat_detail.php on line 20
+[14-Jul-2023 16:16:12 Asia/Jakarta] PHP Notice:  Undefined variable: tempo in /home/reabasti/public_html/pos/module/jual/lihat_detail.php on line 91
+[14-Jul-2023 16:16:12 Asia/Jakarta] PHP Notice:  Undefined variable: data in /home/reabasti/public_html/pos/module/jual/lihat_detail.php on line 169
+[14-Jul-2023 16:16:12 Asia/Jakarta] PHP Notice:  Undefined variable: tampil in /home/reabasti/public_html/pos/module/jual/lihat_detail.php on line 173
+[14-Jul-2023 16:16:12 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/reabasti/public_html/pos/module/jual/lihat_detail.php on line 173
+[14-Jul-2023 17:05:04 Asia/Jakarta] PHP Notice:  Undefined variable: tempo in /home/reabasti/public_html/pos/module/jual/lihat_detail.php on line 20
+[14-Jul-2023 17:05:04 Asia/Jakarta] PHP Notice:  Undefined variable: tempo in /home/reabasti/public_html/pos/module/jual/lihat_detail.php on line 91
+[14-Jul-2023 17:05:04 Asia/Jakarta] PHP Notice:  Undefined variable: data in /home/reabasti/public_html/pos/module/jual/lihat_detail.php on line 169
+[14-Jul-2023 17:05:04 Asia/Jakarta] PHP Notice:  Undefined variable: tampil in /home/reabasti/public_html/pos/module/jual/lihat_detail.php on line 173
+[14-Jul-2023 17:05:04 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/reabasti/public_html/pos/module/jual/lihat_detail.php on line 173
+[17-Jul-2023 14:26:28 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/reabasti/public_html/pos/module/jual/proses_tambah.php on line 65
+[17-Jul-2023 14:28:37 Asia/Jakarta] PHP Notice:  Undefined variable: tempo in /home/reabasti/public_html/pos/module/jual/lihat_detail.php on line 20
+[17-Jul-2023 14:28:37 Asia/Jakarta] PHP Notice:  Undefined variable: tempo in /home/reabasti/public_html/pos/module/jual/lihat_detail.php on line 91
+[17-Jul-2023 14:33:46 Asia/Jakarta] PHP Notice:  Undefined variable: tempo in /home/reabasti/public_html/pos/module/jual/lihat_detail.php on line 20
+[17-Jul-2023 14:33:46 Asia/Jakarta] PHP Notice:  Undefined variable: tempo in /home/reabasti/public_html/pos/module/jual/lihat_detail.php on line 91
+[17-Jul-2023 14:33:57 Asia/Jakarta] PHP Notice:  Undefined variable: tempo in /home/reabasti/public_html/pos/module/jual/lihat_detail.php on line 20
+[17-Jul-2023 14:33:57 Asia/Jakarta] PHP Notice:  Undefined variable: tempo in /home/reabasti/public_html/pos/module/jual/lihat_detail.php on line 91
+[17-Jul-2023 14:35:23 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/module/jual/proses_edit.php on line 40
+[17-Jul-2023 14:35:23 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/reabasti/public_html/pos/module/jual/proses_edit.php on line 65
+[17-Jul-2023 14:56:36 Asia/Jakarta] PHP Notice:  Undefined variable: tempo in /home/reabasti/public_html/pos/module/jual/lihat_detail.php on line 20
+[17-Jul-2023 14:56:36 Asia/Jakarta] PHP Notice:  Undefined variable: tempo in /home/reabasti/public_html/pos/module/jual/lihat_detail.php on line 91
+[17-Jul-2023 17:32:20 Asia/Jakarta] PHP Warning:  Use of undefined constant ppn - assumed 'ppn' (this will throw an Error in a future version of PHP) in /home/reabasti/public_html/pos/module/jual/cetak_fp.php on line 33
+[17-Jul-2023 17:32:20 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/module/jual/cetak_fp.php on line 33
+[17-Jul-2023 17:32:49 Asia/Jakarta] PHP Warning:  Use of undefined constant ppn - assumed 'ppn' (this will throw an Error in a future version of PHP) in /home/reabasti/public_html/pos/module/jual/cetak_fp.php on line 33
+[17-Jul-2023 17:32:49 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/module/jual/cetak_fp.php on line 33
+[17-Jul-2023 17:33:05 Asia/Jakarta] PHP Warning:  Use of undefined constant ppn - assumed 'ppn' (this will throw an Error in a future version of PHP) in /home/reabasti/public_html/pos/module/jual/cetak_fp.php on line 33
+[17-Jul-2023 17:33:05 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/reabasti/public_html/pos/module/jual/cetak_fp.php on line 33

@@ -1,0 +1,4 @@
+[17-Jul-2023 14:46:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/reabasti/public_html/pos/module/terima/lihat_detail.php:97
+Stack trace:
+#0 {main}
+  thrown in /home/reabasti/public_html/pos/module/terima/lihat_detail.php on line 97

@@ -1,0 +1,65 @@
+<html>
+
+<head>
+
+<title>Laporan PDF dengan DomPDF</title>
+
+</head>
+
+ 
+
+<style>
+
+h1, p{text-align:center}
+
+table{margin:0 auto;background:#E0E0E0;border:1px solid #928B8B}
+
+table tr td {padding:15px}
+
+input[type="text"]{padding:5px}
+
+</style>
+
+ 
+
+<body>
+
+<h1>Form Data Gaji</h1>
+
+<p>Isilah Data Dibawah</p>
+
+<form action="dompdf.php" method="POST">
+
+<table>
+
+<tr>                                                                    <td><label>Nama</label></td>                                                                             <td>:</td>                                                                          <td><input type="text" name="nama" /></td>
+
+</tr>
+
+<tr>                                                                         <td><label>Alamat</label></td>                                                                         <td>:</td>                                                                         <td><textarea name="alamat" cols="20″ rows="10″></textarea></td>
+
+</tr>
+
+<tr>                                                                       <td><label>Gaji</label></td>                                                                      <td>:</td>                                                                 <td><input type="text" name="gaji" /></td>
+
+</tr>
+
+<tr>
+
+<td><label>Potongan</label></td>                        
+
+<td>:</td>                                                              <td><input type="text" name="potongan"/></td>
+
+</tr>
+
+<tr>                                                                         <td><input type="submit" name="kirim" id="topdf" value="Cetak Laporan" /></td>
+
+</tr>
+
+</table>
+
+</form>
+
+</body>
+
+</html>
