@@ -2,6 +2,22 @@
 	<script src="../../js/sweet-alert.min.js" type="text/javascript"></script>
    	<?php
 		include "../../inc/config.php";
+		$query = mysqli_query($connect, "select * from tbmultiprc where id='$_GET[id]'");
+		$row = mysqli_fetch_array($query);
+		$kdbarang = $row['kdbarang'];
+		$query = mysqli_query($connect, "select kdbarang from juald where kdbarang = '$kdbarang'");
+		$row = mysqli_num_rows($query);
+		if ($row >= 1){
+			?>
+			<script>
+				swal({title: "Gagal hapus data", text: "Data sudah terpakai di transaksi", icon: 
+				"error"}).then(function(){window.history.back(); //window.location.href='../../dashboard.php?m=wo';
+				   }
+				);
+			</script>
+			<?php
+		}		
+
 		$query = $connect->prepare("delete from tbmultiprc where id=?");
 		$query->bind_param('s',$_GET['id']);
 		if($query->execute() and mysqli_affected_rows($connect)>0){

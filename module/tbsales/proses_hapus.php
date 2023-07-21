@@ -2,8 +2,11 @@
 	<script src="../../js/sweet-alert.min.js" type="text/javascript"></script>
    	<?php
 		include "../../inc/config.php";
+		$query = mysqli_query($connect, "select * from tbsales where id='$_GET[id]'");
+		$row = mysqli_fetch_array($query);
+		$kdsales = $row['kode'];
 		$query = $connect->prepare("select * from jualh where kdsales=?");
-		$query->bind_param('s',$_GET['kode']);
+		$query->bind_param('s',$kdsales);
 		$result = $query->execute();
 		$query->store_result();
 		if ($query->num_rows >= "1") {

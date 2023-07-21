@@ -673,9 +673,9 @@ if (isset($_GET['tipe'])) {
 									<th width='50'>Tgl. PO</th>
 									<th width="200">Supplier</th>
 									<th width='80'>Total</th>
-									<th width='20'>Prs</th>
-									<th width='20'>Btl</th>
-									<th width='230'>Aksi</th>
+									<th width='20'>Proses</th>
+									<th width='20'>Batal</th>
+									<th width='70'>Aksi</th>
 								</tr>
 							</thead>
 							<tbody></tbody>
@@ -946,17 +946,34 @@ if (isset($_GET['tipe'])) {
 							"targets": 7,
 							"data": null,
 							"render": function(data, type, row) { // Tampilkan kolom aksi
-								var html = "";
+								// var html = "";
 								// var html = "<a class='btn btn-success btn-xs' href='?m=jual&tipe=detail_proses&nojual=$k[nojual]&kdcustomer=$k[kdcustomer]'>Detail</a> ";
 								// var html = '<button type="button" class="btn btn-success btn-xs dt-view" style="margin-right:10px;"><span class="glyphicon glyphicon-eye-open glyphicon-info-sign" aria-hidden="true"></span></button>';
-								html += '<button type="button" class="btn btn-success btn-xs tblEdit" style="margin-right:10px;"><span class="glyphicon glyphicon-pencil" aria-hidden="true"></span>H</button>';
-								html += '<button type="button" class="btn btn-info btn-xs dt-detail" style="margin-right:10px;"><span class="glyphicon glyphicon-pencil" aria-hidden="true"></span>D</button>';
-								html += '<button type="button" class="btn btn-danger btn-xs dt-delete" style="margin-right:10px;"><span class="glyphicon glyphicon-remove glyphicon-trash" aria-hidden="true">';
-								html += '<button type="button" class="btn btn-warning btn-xs dt-proses" style="margin-right:10px;"><span class="glyphicon glyphicon-circle-arrow-right" aria-hidden="true">';
-								html += '<button type="button" class="btn btn-danger btn-xs dt-unproses" style="margin-right:10px;"><span class="glyphicon glyphicon-circle-arrow-left" aria-hidden="true">';
-								html += '<button type="button" class="btn btn-default btn-xs dt-cetak" style="margin-right:10px;"><span class="glyphicon glyphicon-print" aria-hidden="true">';
+								// html += '<button type="button" class="btn btn-success btn-xs tblEdit" style="margin-right:10px;"><span class="glyphicon glyphicon-pencil" aria-hidden="true"></span>H</button>';
+								// html += '<button type="button" class="btn btn-info btn-xs dt-detail" style="margin-right:10px;"><span class="glyphicon glyphicon-pencil" aria-hidden="true"></span>D</button>';
+								// html += '<button type="button" class="btn btn-danger btn-xs dt-delete" style="margin-right:10px;"><span class="glyphicon glyphicon-remove glyphicon-trash" aria-hidden="true">';
+								// html += '<button type="button" class="btn btn-warning btn-xs dt-proses" style="margin-right:10px;"><span class="glyphicon glyphicon-circle-arrow-right" aria-hidden="true">';
+								// html += '<button type="button" class="btn btn-danger btn-xs dt-unproses" style="margin-right:10px;"><span class="glyphicon glyphicon-circle-arrow-left" aria-hidden="true">';
+								// html += '<button type="button" class="btn btn-default btn-xs dt-cetak" style="margin-right:10px;"><span class="glyphicon glyphicon-print" aria-hidden="true">';
 								// html += '<button type="button" class="btn btn-default btn-xs dt-cetak-fp" style="margin-right:10px;"><span class="glyphicon glyphicon-print" aria-hidden="true"> FP';
-								return html
+								var html = "";
+								html += '<div class="dropdown"> <button class="btn btn-primary btn-sm dropdown-toggle"	type="button"	data-toggle="dropdown"> Pilih Aksi <span class="caret"> </span></button>';
+								html += '<ul class = "dropdown-menu">';
+								if (data[9] == "Y") { //batal
+										html += '<li> <a class="dt-delete"><i class="fa fa-arrow-left"></i>Kembalikan </a></li>';
+									} else {
+										if (data[7] == "Y") { //proses
+											html += '<li><a class="dt-unproses"><i class="fa fa-arrow-left"></i>Unproses </a></li>';
+											html += '<li><a class="dt-cetak"><i class="fa fa-print"></i>Cetak Surat Jalan</a></li>';
+											html += '<li><a class="dt-cetak-fp"><i class="fa fa-print"></i>Cetak Faktur</a></li>';
+										} else {
+											html += '<li><a class="tblEdit"><i class="fa fa-edit"></i>Edit Header</a></li>';
+											html += '<li><a class="dt-detail"><i class="fa fa-edit"></i>Edit Detail</a></li>';
+											html += '<li><a class="dt-delete"><i class="fa fa-times"></i>Hapus</a></li>';
+											html += '<li><a class="dt-proses"><i class="fa fa-arrow-right"></i>Proses </a></li>';
+										}
+									}
+									return html
 							}
 						},
 					],
