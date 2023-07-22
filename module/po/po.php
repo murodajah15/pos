@@ -960,7 +960,6 @@ if (isset($_GET['tipe'])) {
 								html += '<div class="dropdown"> <button class="btn btn-primary btn-sm dropdown-toggle"	type="button"	data-toggle="dropdown"> Pilih Aksi <span class="caret"> </span></button>';
 								html += '<ul class = "dropdown-menu">';
 								if (data[9] == "Y") { //batal
-<<<<<<< HEAD
 									html += '<li> <a class="dt-delete"><i class="fa fa-arrow-left"></i>Kembalikan </a></li>';
 								} else {
 									if (data[7] == "Y") { //proses
@@ -974,22 +973,6 @@ if (isset($_GET['tipe'])) {
 									}
 								}
 								return html
-=======
-										html += '<li> <a class="dt-delete"><i class="fa fa-arrow-left"></i>Kembalikan </a></li>';
-									} else {
-										if (data[7] == "Y") { //proses
-											html += '<li><a class="dt-unproses"><i class="fa fa-arrow-left"></i>Unproses </a></li>';
-											html += '<li><a class="dt-cetak"><i class="fa fa-print"></i>Cetak Surat Jalan</a></li>';
-											html += '<li><a class="dt-cetak-fp"><i class="fa fa-print"></i>Cetak Faktur</a></li>';
-										} else {
-											html += '<li><a class="tblEdit"><i class="fa fa-edit"></i>Edit Header</a></li>';
-											html += '<li><a class="dt-detail"><i class="fa fa-edit"></i>Edit Detail</a></li>';
-											html += '<li><a class="dt-delete"><i class="fa fa-times"></i>Hapus</a></li>';
-											html += '<li><a class="dt-proses"><i class="fa fa-arrow-right"></i>Proses </a></li>';
-										}
-									}
-									return html
->>>>>>> 5fdc443611545cb678fe38d60c3c39e48e542220
 							}
 						},
 					],
