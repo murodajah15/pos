@@ -16,8 +16,8 @@ if (isset($_GET['tipe'])) {
 							Pilih File Excel*:
 							<input name='fileexcel' type='file' accept='application/vnd.ms-excel'></br>
 							<!--<input name='upload' type='submit' alue='Import'>-->
-							<button type='submit' class='btn btn-primary' name='upload' value='import'>Import</button>
-							<input button type='Button' class='btn btn-danger' value='Selesai' onClick='history.back()' />
+							<button type='submit' class='btn btn-primary btn-sm' name='upload' value='import'>Import</button>
+							<input button type='Button' class='btn btn-danger btn-sm' value='Selesai' onClick='history.back()' />
 					</div>
 				</div>
 				</form>
@@ -47,8 +47,8 @@ if (isset($_GET['tipe'])) {
 								<option value='CSV'> CSV</option>
 								<option value='PDF'> PDF</option>
 							</select><br>
-							<button type='submit' class='btn btn-primary' name='upload' value='export'>Export</button>
-							<input button type='Button' class='btn btn-danger' value='Selesai' onClick='history.back()' />
+							<button type='submit' class='btn btn-primary btn-sm' name='upload' value='export'>Export</button>
+							<input button type='Button' class='btn btn-danger btn-sm' value='Selesai' onClick='history.back()' />
 					</div>
 				</div>
 				</form>
@@ -107,8 +107,8 @@ if (isset($_GET['tipe'])) {
 								</table>
 							</div>
 							<div class='col-md-12'>
-								<button type="submit" class="btn btn-primary">Simpan</button>
-								<input button type='Button' class='btn btn-danger' value='Batal' onClick='history.back()' />
+								<button type="submit" class="btn btn-primary btn-sm">Simpan</button>
+								<input button type='Button' class='btn btn-danger btn-sm' value='Batal' onClick='history.back()' />
 								<!--<input button type='Button' class='btn btn-danger' value='Close' onClick="window.location = 'dashboard.php?m=tbmultiprc'">-->
 							</div>
 					</div>
@@ -166,25 +166,25 @@ if (isset($_GET['tipe'])) {
 								$lakses = $_SESSION['aksestambah'];
 								if ($lakses == 1) { ?>
 									<div class='col-md-3'>
-										<input button type='Button' class='btn btn-danger' value='Salin dari Tabel Barang' onClick='salin_tbbarang("<?= $kdcustomer ?>")' />
+										<input button type='Button' class='btn btn-danger  btn-sm' value='Salin dari Tabel Barang' onClick='salin_tbbarang("<?= $kdcustomer ?>")' />
 									</div>
 									<div class='col-md-8'>
 										<table style=font-size:13px; class="table table-striped table table-bordered">
 											<td>
 												<div class='input-group'> <input type='text' class='form-control' id='kdcustomer' name='kdcustomer_salin' size='20%' autocomplete='off' style='text-transform:uppercase' required readonly>
 													<span class='input-group-btn'>
-														<button type='button' id='src' class='btn btn-default' onclick='cari_data_customer()'>Cari</button>
+														<button type='button' id='src' class='btn btn-default btn-sm' onclick='cari_data_customer()'>Cari</button>
 													</span><input type="text" class='form-control' id='nmcustomer' name='nmcustomer' size='50' readonly required>
 											</td>
 											<td>
-												<input button type='Button' class='btn btn-primary' value='Salin dari Customer' onClick='salin_tbbarang_customer("<?= $kdcustomer ?>")' />
+												<input button type='Button' class='btn btn-primary btn-sm' value='Salin dari Customer' onClick='salin_tbbarang_customer("<?= $kdcustomer ?>")' />
 											</td>
 										</table>
 									</div>
 								<?php
 								} else { ?>
 
-									<input button type='Button' class='btn btn-primary' value='Salin dari Tabel Barang' onClick='salin_tbbarang("<?= $kdcustomer ?>")' disabled />
+									<input button type='Button' class='btn btn-primary btn-sm' value='Salin dari Tabel Barang' onClick='salin_tbbarang("<?= $kdcustomer ?>")' disabled />
 								<?php
 								}
 								?>
@@ -199,7 +199,7 @@ if (isset($_GET['tipe'])) {
 									<td>
 										<div class='input-group'> <input type='text' class='form-control' id='kdbarang' name='kdbarang' size='50' autocomplete='off' style='text-transform:uppercase' required>
 											<span class='input-group-btn'>
-												<button type='button' id='src' class='btn btn-primary' onclick='cari_data_tbbarang()'>Cari</button>
+												<button type='button' id='src' class='btn btn-primary btn-sm' onclick='cari_data_tbbarang()'>Cari</button>
 											</span>
 									</td>
 									</td>
@@ -213,9 +213,9 @@ if (isset($_GET['tipe'])) {
 										cekakses($connect, $user, 'Tabel Multi Price');
 										$lakses = $_SESSION['aksestambah'];
 										if ($lakses == 1) {
-											echo "<button type='submit' class='btn btn-primary'>+</button>";
+											echo "<button type='submit' class='btn btn-primary btn-sm'>+</button>";
 										} else {
-											echo "<button type='submit' class='btn btn-primary' disabled>+</button>";
+											echo "<button type='submit' class='btn btn-primary btn-sm' disabled>+</button>";
 										}
 										?>
 										<!--<button type='button' id='src' class='btn btn-danger btn-sm' onclick='tambah_detail($k[id])'>+
@@ -267,14 +267,14 @@ if (isset($_GET['tipe'])) {
 										$aksesedit = $_SESSION['aksesedit'];
 										$akseshapus = $_SESSION['akseshapus'];
 										if ($aksesedit == 1) {
-											echo "<a class='btn btn-primary' href='?m=tbmultiprc&tipe=edit_detail&id=$k[id]'>Edit</a> ";
+											echo "<a class='btn btn-primary btn-sm' href='?m=tbmultiprc&tipe=edit_detail&id=$k[id]'>Edit</a> ";
 										} else {
-											echo "<a class='btn btn-primary' href='?m=tbmultiprc&tipe=edit_detail&id=$k[id]' disabled>Edit</a> ";
+											echo "<a class='btn btn-primary btn-sm' href='?m=tbmultiprc&tipe=edit_detail&id=$k[id]' disabled>Edit</a> ";
 										}
 										if ($akseshapus == 1) {
-											echo "<input button type='Button' class='btn btn-danger' value='Hapus' onClick='alert_hapus_detail($k[id])'/>";
+											echo "<input button type='Button' class='btn btn-danger btn-sm' value='Hapus' onClick='alert_hapus_detail($k[id])'/>";
 										} else {
-											echo "<input button type='Button' class='btn btn-danger' value='Hapus' onClick='alert_hapus_detail($k[id])' disabled/>";
+											echo "<input button type='Button' class='btn btn-danger btn-sm' value='Hapus' onClick='alert_hapus_detail($k[id])' disabled/>";
 										}
 										$no++;
 									}
@@ -282,7 +282,7 @@ if (isset($_GET['tipe'])) {
 								</table>
 							</div>
 							<div class='col-md-12'>
-								<input button type='Button' class='btn btn-danger' value='Close' onClick="window.location.href='?m=tbmultiprc'" />
+								<input button type='Button' class='btn btn-danger btn-sm' value='Close' onClick="window.location.href='?m=tbmultiprc'" />
 							</div>
 					</div>
 				</div>
@@ -460,7 +460,7 @@ if (isset($_GET['tipe'])) {
 								</table>
 							</div>
 							<div class='col-md-12'>
-								<input button type='Button' class='btn btn-danger' value='Close' onClick="window.location.href='?m=tbmultiprc'" />
+								<input button type='Button' class='btn btn-danger btn-sm' value='Close' onClick="window.location.href='?m=tbmultiprc'" />
 							</div>
 					</div>
 				</div>
@@ -529,8 +529,8 @@ if (isset($_GET['tipe'])) {
 								</table>
 							</div>
 							<div class='col-md-12'>
-								<button type='submit' class='btn btn-success'>Simpan</button>
-								<input button type='Button' class='btn btn-danger' value='Batal' onClick='history.back()' />
+								<button type='submit' class='btn btn-success btn-sm'>Simpan</button>
+								<input button type='Button' class='btn btn-danger btn-sm' value='Batal' onClick='history.back()' />
 							</div>
 					</div>
 				</div>
@@ -609,8 +609,8 @@ if (isset($_GET['tipe'])) {
 							</table>
 						</div>
 						<div class=' col-md-12'>
-											<button type="submit" class="btn btn-primary">Simpan</button>
-											<input button type="Button" class="btn btn-danger" value="Batal" onClick="history.back()" />
+											<button type="submit" class="btn btn-primary btn-sm">Simpan</button>
+											<input button type="Button" class="btn btn-danger btn-sm" value="Batal" onClick="history.back()" />
 							</div>
 					</div>
 				</div>
@@ -800,7 +800,7 @@ if (isset($_GET['tipe'])) {
 				<div class="modal-body">
 				</div>
 				<div class="modal-footer">
-					<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+					<button type="button" class="btn btn-secondary btn-sm" data-dismiss="modal">Close</button>
 				</div>
 			</div>
 		</div>

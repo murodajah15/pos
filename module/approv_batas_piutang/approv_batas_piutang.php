@@ -317,9 +317,9 @@ if (isset($_GET['tipe'])) {
 									<th width='80'>No.Penjualan</th>
 									<th width='70'>Tgl.Penjualan</th>
 									<th width='70'>Total</th>
-									<th width='20'>Prs</th>
-									<th width='20'>Btl</th>
-									<th width='200'>Aksi</th>
+									<th width='20'>Proses</th>
+									<th width='20'>Batal</th>
+									<th width='100'>Aksi</th>
 								</tr>
 							</thead>
 							<tbody></tbody>

@@ -709,12 +709,12 @@ if (isset($_GET['tipe'])) {
 									<th width='30'>No.</th>
 									<th width='80'>No.Kwitansi</th>
 									<th width='60'>Tgl.Kwitansi</th>
-									<th width='100'>Jenis</th>
+									<th width='150'>Jenis</th>
 									<th width='90'>Cara Bayar</th>
 									<th width='80'>Total</th>
-									<th width='20'>Prs</th>
-									<th width='20'>Btl</th>
-									<th width='330'>Aksi</th>
+									<th width='20'>Proses</th>
+									<th width='20'>Batal</th>
+									<th width='300'>Aksi</th>
 								</tr>
 							</thead>
 							<tbody></tbody>

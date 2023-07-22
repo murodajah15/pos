@@ -15,8 +15,8 @@ if (isset($_GET['tipe'])) {
 							<input type='hidden' name='username' value='<?= $user ?>'>
 							Pilih File Excel*:
 							<input name='fileexcel' type='file' accept='application/vnd.ms-excel'></br> <!--<input name='upload' type='submit' alue='Import'>-->
-							<button type='submit' class='btn btn-primary' name='upload' value='import'>Import</button>
-							<input button type='Button' class='btn btn-danger' value='Selesai' onClick='history.back()' />
+							<button type='submit' class='btn btn-primary btn-sm' name='upload' value='import'>Import</button>
+							<input button type='Button' class='btn btn-danger btn-sm' value='Selesai' onClick='history.back()' />
 					</div>
 				</div>
 				</form>
@@ -46,8 +46,8 @@ if (isset($_GET['tipe'])) {
 								<option value='CSV'> CSV</option>
 								<option value='PDF'> PDF</option>
 							</select><br>
-							<button type='submit' class='btn btn-primary' name='upload' value='export'>Export</button>
-							<input button type='Button' class='btn btn-danger' value='Selesai' onClick='history.back()' />
+							<button type='submit' class='btn btn-primary btn-sm' name='upload' value='export'>Export</button>
+							<input button type='Button' class='btn btn-danger btn-sm' value='Selesai' onClick='history.back()' />
 					</div>
 				</div>
 				</form>
@@ -105,7 +105,7 @@ if (isset($_GET['tipe'])) {
 									<td> <input type='text' class='form-control' name='user' value="<?= $user ?>" readonly></td>
 								</tr>
 							</table>
-							<input button type='Button' class='btn btn-danger' value='Close' onClick="window.location.href='?m=tbjntrans'" />
+							<input button type='Button' class='btn btn-danger btn-sm' value='Close' onClick="window.location.href='?m=tbjntrans'" />
 					</div>
 				</div>
 				</form>
@@ -122,7 +122,7 @@ if (isset($_GET['tipe'])) {
 		$lakses = $_SESSION['aksestambah'];
 		if ($lakses == 1) { ?>
 			<font face='calibri'>
-				<div class='panel panel-danger'>
+				<div class='panel panel-danger btn-sm'>
 					<div class='panel-heading'>
 						<font size="4">TAMBAH DATA TABEL JENIS TRANSAKSI</font>
 					</div>
@@ -149,8 +149,8 @@ if (isset($_GET['tipe'])) {
 								</tr>
 								<!--<tr><td width='100px'>Keterangan</td> <td> <input type='text' class='form-control' name='keterangan' width='150px' required></td></tr>-->
 							</table>
-							<button type='submit' class='btn btn-success'>Simpan</button>
-							<input button type='Button' class='btn btn-danger' value='Batal' onClick='history.back()' />
+							<button type='submit' class='btn btn-success btn-sm'>Simpan</button>
+							<input button type='Button' class='btn btn-danger btn-sm' value='Batal' onClick='history.back()' />
 					</div>
 				</div>
 				</form>
@@ -209,8 +209,8 @@ if (isset($_GET['tipe'])) {
 											echo "</select>"; ?>
 											<!--<tr><td>Keterangan</td> <td>  <input type="text" class="form-control" name="keterangan" id="keterangan" value="<?= $keterangan ?>" autofocus="autofocus"></td></tr>-->
 							</table>
-							<button type="submit" class="btn btn-primary">Simpan</button>
-							<input button type="Button" class="btn btn-danger" value="Batal" onClick="history.back()" />
+							<button type="submit" class="btn btn-primary btn-sm">Simpan</button>
+							<input button type="Button" class="btn btn-danger btn-sm" value="Batal" onClick="history.back()" />
 					</div>
 				</div>
 				</form>
@@ -236,9 +236,9 @@ if (isset($_GET['tipe'])) {
 					<form method='post'>
 						<div class="row">
 							<div class="col-md-12 bg">
-								<a class="btn btn-danger" href="?m=tbjntrans&tipe=tambah">Tambah data</a>
-								<a class="btn btn-success" href="?m=tbjntrans&tipe=import">Import data</a>
-								<a class="btn btn-warning" href="?m=tbjntrans&tipe=export">Export data</a>
+								<a class="btn btn-danger btn-sm" href="?m=tbjntrans&tipe=tambah">Tambah data</a>
+								<a class="btn btn-success btn-sm" href="?m=tbjntrans&tipe=import">Import data</a>
+								<a class="btn btn-warning btn-sm" href="?m=tbjntrans&tipe=export">Export data</a>
 							</div>
 						</div>
 					</form>
@@ -268,13 +268,13 @@ if (isset($_GET['tipe'])) {
 					<td>$k[keterangan]</td>
 					<td>$k[user]</td>
 					<td align='center' width='120px'>
-						<a class='btn btn-info' href='?m=tbjntrans&tipe=edit&id=$k[id]'>Edit</a>";
+						<a class='btn btn-info btn-sm' href='?m=tbjntrans&tipe=edit&id=$k[id]'>Edit</a>";
 								cekakses($connect, $user, 'TABEL JENIS TRANSAKSI');
 								$lakses = $_SESSION['akseshapus'];
 								if ($lakses == 1) {
-									//echo " <a class='btn btn-danger' href='module/tbjntrans/proses_hapus.php?id=$k[id]&kode=$k[kode]'
+									//echo " <a class='btn btn-danger btn-sm' href='module/tbjntrans/proses_hapus.php?id=$k[id]&kode=$k[kode]'
 									//onClick='return confirm(\"Anda yakin akan menghapus ?\")'>Hapus</a>";
-									echo " <input button type='Button' class='btn btn-danger' value='Hapus' onClick='alert_hapus($k[id])'/>";
+									echo " <input button type='Button' class='btn btn-danger btn-sm' value='Hapus' onClick='alert_hapus($k[id])'/>";
 								}
 								echo "</td>";
 								$no++;

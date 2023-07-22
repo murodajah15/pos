@@ -116,9 +116,9 @@ $columns = array(
       return '<p style="text-align:center">' . $d . '</p>';
     }
   ),
-  array('db' => 'proses', 'dt' => 7),
-  array('db' => 'batal', 'dt' => 8),
   array('db' => 'id', 'dt' => 9),
+  array('db' => 'proses', 'dt' => 10),
+  array('db' => 'batal', 'dt' => 11),
 );
 
 // $sql_details = array(

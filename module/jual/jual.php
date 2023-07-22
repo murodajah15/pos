@@ -1200,10 +1200,10 @@ if (isset($_GET['tipe'])) {
 									var html = "";
 									html += '<div class="dropdown"> <button class="btn btn-primary btn-sm dropdown-toggle"	type="button"	data-toggle="dropdown"> Pilih Aksi <span class="caret"> </span></button>';
 									html += '<ul class = "dropdown-menu">';
-									if (data[8] == "Y") { //batal
+									if (data[11] == "Y") { //batal
 										html += '<li> <a class="dt-delete"><i class="fa fa-arrow-left"></i>Kembalikan </a></li>';
 									} else {
-										if (data[7] == "Y") { //proses
+										if (data[10] == "Y") { //proses
 											html += '<li><a class="dt-unproses"><i class="fa fa-arrow-left"></i>Unproses </a></li>';
 											html += '<li><a class="dt-cetak"><i class="fa fa-print"></i>Cetak Surat Jalan</a></li>';
 											html += '<li><a class="dt-cetak-fp"><i class="fa fa-print"></i>Cetak Faktur</a></li>';
@@ -1232,7 +1232,7 @@ if (isset($_GET['tipe'])) {
 					});
 					$('#tbl-jualh tbody').on('click', '.tblEdit', function() {
 						var data = table.row($(this).parents('tr')).data();
-						if (data[9] == "Y") {
+						if (data[11] == "Y") {
 							swal({
 								title: "Data sudah batal !",
 								text: "Aksi tidak bisa dilanjutkan",
@@ -1240,7 +1240,7 @@ if (isset($_GET['tipe'])) {
 							})
 							exit();
 						}
-						if (data[7] == "N") {
+						if (data[10] == "N") {
 							window.location.href = "?m=jual&tipe=edit&id=" + data[9];
 						} else {
 							swal({
@@ -1252,7 +1252,7 @@ if (isset($_GET['tipe'])) {
 					});
 					$('#tbl-jualh tbody').on('click', '.dt-detail', function() {
 						var data = table.row($(this).parents('tr')).data();
-						if (data[8] == "Y") {
+						if (data[11] == "Y") {
 							swal({
 								title: "Data sudah batal !",
 								text: "Aksi tidak bisa dilanjutkan",
@@ -1260,7 +1260,7 @@ if (isset($_GET['tipe'])) {
 							})
 							exit();
 						}
-						if (data[7] == "N") {
+						if (data[10] == "N") {
 							window.location.href = "?m=jual&tipe=detail&id=" + data[9] + "&module=Penjualan";
 						} else {
 							swal({
@@ -1276,7 +1276,7 @@ if (isset($_GET['tipe'])) {
 						//var id = $(this).attr("id");
 						var data = table.row($(this).parents('tr')).data();
 						var id = data[9];
-						if (data[7] == "Y") {
+						if (data[10] == "Y") {
 							swal({
 								title: "Data sudah di proses !",
 								text: "Data sudah di proses, aksi tidak bisa dilanjutkan",
@@ -1284,7 +1284,7 @@ if (isset($_GET['tipe'])) {
 							})
 							exit();
 						}
-						if (data[8] == "Y") {
+						if (data[11] == "Y") {
 							swal({
 									title: "Data sudah batal !",
 									text: "Yakin akan dilanjutkan ?",
@@ -1329,7 +1329,7 @@ if (isset($_GET['tipe'])) {
 					$('#tbl-jualh tbody').on('click', '.dt-proses', function() {
 						var data = table.row($(this).parents('tr')).data();
 						var id = data[9];
-						if (data[8] == "Y") {
+						if (data[11] == "Y") {
 							swal({
 								title: "Data sudah batal !",
 								text: "Aksi tidak bisa dilanjutkan",
@@ -1337,7 +1337,7 @@ if (isset($_GET['tipe'])) {
 							})
 							exit();
 						}
-						if (data[7] == "Y") {
+						if (data[10] == "Y") {
 							swal({
 								title: "Data sudah di proses !",
 								text: "Data sudah di proses, aksi tidak bisa dilanjutkan",
@@ -1368,7 +1368,7 @@ if (isset($_GET['tipe'])) {
 					$('#tbl-jualh tbody').on('click', '.dt-unproses', function() {
 						var data = table.row($(this).parents('tr')).data();
 						var id = data[9];
-						if (data[8] == "Y") {
+						if (data[11] == "Y") {
 							swal({
 								title: "Data sudah batal !",
 								text: "Aksi tidak bisa dilanjutkan",
@@ -1376,7 +1376,7 @@ if (isset($_GET['tipe'])) {
 							})
 							exit();
 						}
-						if (data[7] == "N") {
+						if (data[10] == "N") {
 							swal({
 								title: "Data belum diproses !",
 								text: "Data belum diproses, aksi tidak bisa dilanjutkan",
@@ -1415,7 +1415,7 @@ if (isset($_GET['tipe'])) {
 					$('#tbl-jualh tbody').on('click', '.dt-cetak', function() {
 						var data = table.row($(this).parents('tr')).data();
 						var id = data[9];
-						if (data[8] == "Y") {
+						if (data[11] == "Y") {
 							swal({
 								title: "Data sudah batal !",
 								text: "Aksi tidak bisa dilanjutkan",
@@ -1423,7 +1423,7 @@ if (isset($_GET['tipe'])) {
 							})
 							exit();
 						}
-						if (data[7] == "N") {
+						if (data[10] == "N") {
 							swal({
 								title: "Data belum diproses !",
 								text: "Data belum diproses, aksi tidak bisa dilanjutkan",
@@ -1455,7 +1455,7 @@ if (isset($_GET['tipe'])) {
 					$('#tbl-jualh tbody').on('click', '.dt-cetak-fp', function() {
 						var data = table.row($(this).parents('tr')).data();
 						var id = data[9];
-						if (data[8] == "Y") {
+						if (data[11] == "Y") {
 							swal({
 								title: "Data sudah batal !",
 								text: "Aksi tidak bisa dilanjutkan",
@@ -1463,7 +1463,7 @@ if (isset($_GET['tipe'])) {
 							})
 							exit();
 						}
-						if (data[7] == "N") {
+						if (data[10] == "N") {
 							swal({
 								title: "Data belum diproses !",
 								text: "Data belum diproses, aksi tidak bisa dilanjutkan",

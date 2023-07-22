@@ -638,9 +638,9 @@ if (isset($_GET['tipe'])) {
 									<th width='100'>Jenis</th>
 									<th width='80'>Cara Bayar</th>
 									<th width='80'>Pembayaran</th>
-									<th width='20'>Prs</th>
-									<th width='20'>Btl</th>
-									<th width='350'>Aksi</th>
+									<th width='20'>Proses</th>
+									<th width='20'>Batal</th>
+									<th width='200'>Aksi</th>
 								</tr>
 							</thead>
 							<tbody></tbody>

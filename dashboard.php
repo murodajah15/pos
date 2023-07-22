@@ -480,7 +480,7 @@ $username = $_SESSION['username'];
 							<h5 class='text-center'>
 								<font color='bluewhite'>Versi 1.01</font>
 							</h5>
-							<span style="color: white">Copyright &copy; 2021<br> Murod (085921282051)<br>All right reserved</span>
+							<span style="color: white">Copyright &copy; 2021 - <?= date('Y'); ?><br> Murod (085921282051)<br>All right reserved</span>
 							<!--<hr>-->
 						</footer>
 						<br>

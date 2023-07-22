@@ -16,8 +16,8 @@ if (isset($_GET['tipe'])) {
 							Pilih File Excel*:
 							<input name='fileexcel' type='file' accept='application/vnd.ms-excel'></br>
 							<!--<input name='upload' type='submit' alue='Import'>-->
-							<button type='submit' class='btn btn-primary' name='upload' value='import'>Import</button>
-							<input button type='Button' class='btn btn-danger' value='Selesai' onClick='history.back()' />
+							<button type='submit' class='btn btn-primary btn-sm' name='upload' value='import'>Import</button>
+							<input button type='Button' class='btn btn-danger btn-sm' value='Selesai' onClick='history.back()' />
 					</div>
 				</div>
 				</form>
@@ -47,8 +47,8 @@ if (isset($_GET['tipe'])) {
 								<option value='CSV'> CSV</option>
 								<option value='PDF'> PDF</option>
 							</select><br>
-							<button type='submit' class='btn btn-primary' name='upload' value='export'>Export</button>
-							<input button type='Button' class='btn btn-danger' value='Selesai' onClick='history.back()' />
+							<button type='submit' class='btn btn-primary btn-sm' name='upload' value='export'>Export</button>
+							<input button type='Button' class='btn btn-danger btn-sm' value='Selesai' onClick='history.back()' />
 					</div>
 				</div>
 				</form>
@@ -231,7 +231,7 @@ if (isset($_GET['tipe'])) {
 								</table>
 							</div>
 							<div class='col-md-12'>
-								<input button type='Button' class='btn btn-danger' value='Close' onClick="window.location.href='?m=tbcustomer'" />
+								<input button type='Button' class='btn btn-danger btn-sm' value='Close' onClick="window.location.href='?m=tbcustomer'" />
 							</div>
 					</div>
 				</div>
@@ -310,7 +310,7 @@ if (isset($_GET['tipe'])) {
 										<td> <input type='date' class='form-control' name='tgl_lahir'></td>
 									</tr>
 									<tr>
-										<td>Alamat KTP<br><input button type='Button' class='btn btn-success' value='Salin' onClick='salin_alamat_ktp()' /></td>
+										<td>Alamat KTP<br><input button type='Button' class='btn btn-success  btn-sm' value='Salin' onClick='salin_alamat_ktp()' /></td>
 										<td> <textarea rows='3' class='form-control' name='alamat_ktp' id='alamat_ktp'></textarea></td>
 									</tr>
 									<tr>
@@ -326,7 +326,7 @@ if (isset($_GET['tipe'])) {
 							<div class='col-md-6'>
 								<table style=font-size:13px; class='table table-striped table table-bordered' width='600px'>
 									<tr>
-										<td>Alamat Kantor<br><input button type='Button' class='btn btn-success' value='Salin' onClick='salin_alamat_ktr()' /></td>
+										<td>Alamat Kantor<br><input button type='Button' class='btn btn-success btn-sm' value='Salin' onClick='salin_alamat_ktr()' /></td>
 										<td> <textarea rows='3' class='form-control' name='alamat_ktr' id='alamat_ktr'></textarea></td>
 									</tr>
 									<tr>
@@ -350,7 +350,7 @@ if (isset($_GET['tipe'])) {
 										<td> <input type='text' class='form-control' name='npwp'></td>
 									</tr>
 									<tr>
-										<td>Nama NPWP<br><input button type='Button' class='btn btn-success' value='Salin' onClick='salin_alamat_npwp()' /></td>
+										<td>Nama NPWP<br><input button type='Button' class='btn btn-success btn-sm' value='Salin' onClick='salin_alamat_npwp()' /></td>
 										<td> <input type='text' class='form-control' name='nama_npwp' id='nama_npwp'></td>
 									</tr>
 									<tr>
@@ -364,8 +364,8 @@ if (isset($_GET['tipe'])) {
 								</table>
 							</div>
 							<div class='col-md-12'>
-								<button type='submit' class='btn btn-success'>Simpan</button>
-								<input button type='Button' class='btn btn-danger' value='Batal' onClick='history.back()' />
+								<button type='submit' class='btn btn-success btn-sm'>Simpan</button>
+								<input button type='Button' class='btn btn-danger btn-sm' value='Batal' onClick='history.back()' />
 							</div>
 					</div>
 				</div>
@@ -489,7 +489,7 @@ if (isset($_GET['tipe'])) {
 							<div class='col-md-6'>
 								<table style=font-size:13px; class='table table-striped table table-bordered' width='600px'>
 									<tr>
-										<td>Alamat KTP<br><input button type='Button' class='btn btn-success' value='Salin' onClick='salin_alamat_ktp()' /></td>
+										<td>Alamat KTP<br><input button type='Button' class='btn btn-success btn-sm' value='Salin' onClick='salin_alamat_ktp()' /></td>
 										<td> <textarea rows='3' class='form-control' name='alamat_ktp' id='alamat_ktp'><?= $alamat_ktp ?></textarea></td>
 									</tr>
 									<tr>
@@ -501,7 +501,7 @@ if (isset($_GET['tipe'])) {
 										<td> <input type='text' class='form-control' name='kodepos_ktp' id='kodepos_ktp' value='<?= $kodepos_ktp ?>'></td>
 									</tr>
 									<tr>
-										<td>Alamat Kantor<br><input button type='Button' class='btn btn-success' value='Salin' onClick='salin_alamat_ktr()' /></td>
+										<td>Alamat Kantor<br><input button type='Button' class='btn btn-success btn-sm' value='Salin' onClick='salin_alamat_ktr()' /></td>
 										<td> <textarea rows='3' class='form-control' name='alamat_ktr' id='alamat_ktr'><?= $alamat_ktr ?></textarea></td>
 									</tr>
 									<tr>
@@ -525,7 +525,7 @@ if (isset($_GET['tipe'])) {
 										<td> <input type='text' class='form-control' name='npwp' value='<?= $npwp ?>'></td>
 									</tr>
 									<tr>
-										<td>Nama NPWP<br><input button type='Button' class='btn btn-success' value='Salin' onClick='salin_alamat_npwp()' /></td>
+										<td>Nama NPWP<br><input button type='Button' class='btn btn-success btn-sm' value='Salin' onClick='salin_alamat_npwp()' /></td>
 										<td> <input type='text' class='form-control' name='nama_npwp' id='nama_npwp' value='<?= $nama_npwp ?>'></td>
 									</tr>
 									<tr>
@@ -539,8 +539,8 @@ if (isset($_GET['tipe'])) {
 								</table>
 							</div>
 							<div class='col-md-12'>
-								<button type="submit" class="btn btn-primary">Simpan</button>
-								<input button type="Button" class="btn btn-danger" value="Batal" onClick="history.back()" />
+								<button type="submit" class="btn btn-primary btn-sm">Simpan</button>
+								<input button type="Button" class="btn btn-danger btn-sm" value="Batal" onClick="history.back()" />
 							</div>
 					</div>
 				</div>
@@ -567,9 +567,9 @@ if (isset($_GET['tipe'])) {
 					<form method='get'>
 						<div class="row">
 							<div class="col-md-10 bg">
-								<a class="btn btn-danger" href="?m=tbcustomer&tipe=tambah">Tambah data</a>
-								<a class="btn btn-success" href="?m=tbcustomer&tipe=import">Import data</a>
-								<a class="btn btn-warning" href="?m=tbcustomer&tipe=export">Export data</a>
+								<a class="btn btn-danger btn-sm" href="?m=tbcustomer&tipe=tambah">Tambah data</a>
+								<a class="btn btn-success btn-sm" href="?m=tbcustomer&tipe=import">Import data</a>
+								<a class="btn btn-warning btn-sm" href="?m=tbcustomer&tipe=export">Export data</a>
 							</div>
 						</div>
 					</form>
@@ -643,7 +643,7 @@ if (isset($_GET['tipe'])) {
 				<div class="modal-body">
 				</div>
 				<div class="modal-footer">
-					<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+					<button type="button" class="btn btn-secondary  btn-sm" data-dismiss="modal">Close</button>
 				</div>
 			</div>
 		</div>

@@ -720,12 +720,12 @@ if (isset($_GET['tipe'])) {
 									<th width='30'>No.</th>
 									<th width='80'>Permohonan</th>
 									<th width='70'>Tanggal</th>
-									<th width='100'>Jenis</th>
+									<th width='150'>Jenis</th>
 									<th width='90'>Cara Bayar</th>
 									<th width='70'>Total</th>
-									<th width='10'>Prs</th>
-									<th width='10'>Btl</th>
-									<th width='330'>Aksi</th>
+									<th width='20'>Proses</th>
+									<th width='20'>Batal</th>
+									<th width='250'>Aksi</th>
 								</tr>
 							</thead>
 							<tbody></tbody>

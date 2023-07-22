@@ -16,8 +16,8 @@ if (isset($_GET['tipe'])) {
 							Pilih File Excel*:
 							<input name='fileexcel' type='file' accept='application/vnd.ms-excel'></br>
 							<!--<input name='upload' type='submit' alue='Import'>-->
-							<button type='submit' class='btn btn-primary' name='upload' value='import'>Import</button>
-							<input button type='Button' class='btn btn-danger' value='Selesai' onClick='history.back()' />
+							<button type='submit' class='btn btn-primary btn-sm' name='upload' value='import'>Import</button>
+							<input button type='Button' class='btn btn-danger btn-sm' value='Selesai' onClick='history.back()' />
 					</div>
 				</div>
 				</form>
@@ -47,8 +47,8 @@ if (isset($_GET['tipe'])) {
 								<option value='CSV'> CSV</option>
 								<option value='PDF'> PDF</option>
 							</select><br>
-							<button type='submit' class='btn btn-primary' name='upload' value='export'>Export</button>
-							<input button type='Button' class='btn btn-danger' value='Selesai' onClick='history.back()' />
+							<button type='submit' class='btn btn-primary btn-sm' name='upload' value='export'>Export</button>
+							<input button type='Button' class='btn btn-danger btn-sm' value='Selesai' onClick='history.back()' />
 					</div>
 				</div>
 				</form>
@@ -244,7 +244,7 @@ if (isset($_GET['tipe'])) {
 								</table>
 							</div>
 							<div class='col-md-12'>
-								<input button type='Button' class='btn btn-danger' value='Close' onClick='history.back()' />
+								<input button type='Button' class='btn btn-danger btn-sm' value='Close' onClick='history.back()' />
 								<!--<input button type='Button' class='btn btn-danger' value='Close' onClick="window.location.href='?m=tbbarang'"/>-->
 							</div>
 					</div>
@@ -398,8 +398,8 @@ if (isset($_GET['tipe'])) {
 								</table>
 							</div>
 							<div class='col-md-12'>
-								<button type='submit' class='btn btn-success'>Simpan</button>
-								<input button type='Button' class='btn btn-danger' value='Batal' onClick='history.back()' />
+								<button type='submit' class='btn btn-success btn-sm'>Simpan</button>
+								<input button type='Button' class='btn btn-danger btn-sm' value='Batal' onClick='history.back()' />
 							</div>
 					</div>
 				</div>
@@ -596,8 +596,8 @@ if (isset($_GET['tipe'])) {
 								</table>
 							</div>
 							<div class='col-md-12'>
-								<button type="submit" class="btn btn-primary">Simpan</button>
-								<input button type="Button" class="btn btn-danger" value="Batal" onClick="history.back()" />
+								<button type="submit" class="btn btn-primary btn-sm">Simpan</button>
+								<input button type="Button" class="btn btn-danger btn-sm" value="Batal" onClick="history.back()" />
 							</div>
 					</div>
 				</div>
@@ -655,14 +655,14 @@ if (isset($_GET['tipe'])) {
 					<button type='submit' class='btn btn-primary'>
 					<span class='glyphicon glyphicon-search'></span> Cari</button> -->
 							<div class="col-md-12 bg">
-								<a class="btn btn-danger" href="?m=tbbarang&tipe=tambah">Tambah data</a>
-								<a class="btn btn-success" href="?m=tbbarang&tipe=import">Import data</a>
-								<a class="btn btn-warning" href="?m=tbbarang&tipe=export">Export data</a>
+								<a class="btn btn-danger btn-sm" href="?m=tbbarang&tipe=tambah">Tambah data</a>
+								<a class="btn btn-success btn-sm" href="?m=tbbarang&tipe=import">Import data</a>
+								<a class="btn btn-warning btn-sm" href="?m=tbbarang&tipe=export">Export data</a>
 								<?php
 								cekakses($connect, $user, 'Tabel Barang');
 								$lakses = $_SESSION['aksestambah'];
 								if ($lakses == 1) { ?>
-									<a class="btn btn-danger" onClick='alert_proses()'>Salin semua barang ke Tabel Multi Price</a>
+									<a class="btn btn-danger btn-sm" onClick='alert_proses()'>Salin semua barang ke Tabel Multi Price</a>
 								<?php
 								}
 								?>
@@ -791,7 +791,7 @@ if (isset($_GET['tipe'])) {
 					<div class="modal-body">
 					</div>
 					<div class="modal-footer">
-						<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+						<button type="button" class="btn btn-secondary btn-sm" data-dismiss="modal">Close</button>
 					</div>
 				</div>
 			</div>
